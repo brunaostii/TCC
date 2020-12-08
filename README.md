@@ -1,3 +1,3 @@
-## Trabalho de Conclusão do curso de Engenharia de Computação (UTFPR - CP)
+## Trabalho de Conclusão de Engenharia de Computação (UTFPR - CP)
 
 
